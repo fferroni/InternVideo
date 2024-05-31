@@ -1,0 +1,15 @@
+einops
+fvcore
+numpy
+pandas
+Pillow
+peft
+PyYAML
+scipy
+termcolor
+timm
+torch
+torchaudio
+torchvision
+tqdm
+transformers
